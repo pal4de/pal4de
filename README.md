@@ -4,6 +4,8 @@
 
 Windowsをつかっています
 
+PHPはいまはもう使っていない
+
 ### すき
 - 🌃 TypeScript
 - 🐍 Python3
